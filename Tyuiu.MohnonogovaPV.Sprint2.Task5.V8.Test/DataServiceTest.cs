@@ -5,7 +5,7 @@ namespace Tyuiu.MohnonogovaPV.Sprint2.Task5.V8.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidFindDateOfPreviousDay()
+        public void ValidFindMonthName()
         {
             DataService ds = new DataService();
             int m = 2;
