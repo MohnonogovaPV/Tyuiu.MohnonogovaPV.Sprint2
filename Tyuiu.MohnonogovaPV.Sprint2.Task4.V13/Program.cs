@@ -39,6 +39,7 @@ namespace Tyuiu.MohnonogovaPV.Sprint2.Task4.V13
             Console.WriteLine("Значение функции = " + res);
 
             Console.ReadKey();
+
         }
     }
 }
