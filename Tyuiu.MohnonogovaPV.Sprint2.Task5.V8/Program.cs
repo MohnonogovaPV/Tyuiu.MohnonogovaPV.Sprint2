@@ -54,7 +54,6 @@ namespace Tyuiu.MohnonogovaPV.Sprint2.Task5.V8
 
             Console.WriteLine(res);
             Console.ReadKey();
-
         }
     }
 }
